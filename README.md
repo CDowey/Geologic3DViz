@@ -7,3 +7,6 @@ Features
 * Line features derived from shapefile or other spatial files
 * Boreholes
 * Planar surfaces
+
+Example
+![3D Scene](../master/Example.jpg)
